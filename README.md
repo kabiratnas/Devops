@@ -1,3 +1,3 @@
 # Devops
-This file is created for 2025 Devops projects
-This id juts for information purposes
+This file this created for 2025 Devops projects
+This is just for information purposes
